@@ -1,12 +1,24 @@
-﻿using Week1;
+﻿using Week1.Practices;
+using Week1.Practices.Abscracts;
 
-Console.Write("Lütfen Çalıştırmak İstediğiniz Uygulamanın Numarasını Giriniz: ");
-var selection = Console.ReadLine();
+IPractice practice = new Practice3();
 
-switch (selection)
+if (practice == null)
 {
-    case "1": Practice1.ExecPractice();
-        break;
-    default: Console.WriteLine("Lütfen Geçerli Bir Uygulama Numarası Giriniz");
-        break;
+    Console.Write("Lütfen Çalıştırmak İstediğiniz Uygulamanın Numarasını Giriniz: ");
+    var selection = Console.ReadLine();
+    
+    switch (selection)
+    {
+        case "1": practice = new Practice1();
+            break;
+        case "2": practice = new Practice2();
+            break;
+        case "3": practice = new Practice3();
+            break;
+        default: Console.WriteLine("Lütfen Geçerli Bir Uygulama Numarası Giriniz");
+            return;
+    }    
 }
+
+practice.ExecPractice();
