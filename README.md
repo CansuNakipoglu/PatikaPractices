@@ -11,3 +11,4 @@ Uygulama Numaraları:
   3 - Casting İşlemleri
   4 - Operatörler Pratiği
   5 - Console Komutları Pratiği
+  6 - Değişkenler ile uygulama pratiği
