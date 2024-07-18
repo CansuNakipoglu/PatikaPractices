@@ -9,3 +9,4 @@ Uygulama Numaraları:
   1 - HelloWorld
   2 - Değişken Tanımlama Ve Atama İşlemleri
   3 - Casting İşlemleri
+  4 - Operatörler Pratiği
