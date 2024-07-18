@@ -1,7 +1,7 @@
 ﻿using Week1.Practices;
 using Week1.Practices.Abscracts;
 
-IPractice practice = new Practice6();
+IPractice practice = null;
 
 if (practice == null)
 {
