@@ -10,3 +10,4 @@ Uygulama Numaraları:
   2 - Değişken Tanımlama Ve Atama İşlemleri
   3 - Casting İşlemleri
   4 - Operatörler Pratiği
+  5 - Console Komutları Pratiği
