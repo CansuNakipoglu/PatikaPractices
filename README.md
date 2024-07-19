@@ -12,3 +12,4 @@ Uygulama Numaraları:
   4 - Operatörler Pratiği
   5 - Console Komutları Pratiği
   6 - Değişkenler ile uygulama pratiği
+  7 - If Else Pratiği
