@@ -26,6 +26,8 @@ if (practice == null)
             break;
         case "8": practice = new Practice8();
             break;
+        case "9": practice = new Practice9();
+            break;
         default: Console.WriteLine("Lütfen Geçerli Bir Uygulama Numarası Giriniz");
             return;
     }    
