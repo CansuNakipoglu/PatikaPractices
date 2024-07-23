@@ -1,4 +1,4 @@
-Projeyi çalıştırdığınızda konsoldan çalıştırılacak uygulama numarasını girmeniz yeterli olacaktır. (Uygulama Numaaraları aşağıda verilmiştir)  
+Projeyi çalıştırdığınızda konsoldan çalıştırılacak uygulama numarasını girmeniz yeterli olacaktır. (Uygulama Numaraları aşağıda verilmiştir)  
 
 Development mod'da uygulamaları hızlı bir şekilde çalıştırabilmek için program.cs de ki satırı aşağıda ki gibi değiştrebilirsiniz.  
 Örnek:  
