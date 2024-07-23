@@ -1,8 +1,8 @@
-Projeyi çalıştırdığınızda konsoldan çalıştırılacak uygulama numarasını girmeniz yeterli olacaktır. (Uygulama Numaaraları aşağıda verilmiştir)
+Projeyi çalıştırdığınızda konsoldan çalıştırılacak uygulama numarasını girmeniz yeterli olacaktır. (Uygulama Numaaraları aşağıda verilmiştir)  
 
-Development mod'da uygulamaları hızlı bir şekilde çalıştırabilmek için program.cs de ki satırı aşağıda ki gibi değiştrebilirsiniz.
+Development mod'da uygulamaları hızlı bir şekilde çalıştırabilmek için program.cs de ki satırı aşağıda ki gibi değiştrebilirsiniz.  
 Örnek:  
-IPractice practice = null; -> IPractice practice = new Practice1();
+IPractice practice = null; -> IPractice practice = new Practice1();  
 
 Detay: Proeje mimarisinde hızlı ve düzenli olabilmesi adına soyut sınıflardan yararlanılmıştır. Tüm practiceler IPractice sınıfından türetilmiştir bu sayede polyfphormisim uygulanıp rahat bir şekilte tüm sınıfların çalıştırılması sağlanmıştır. Konu gidişatı ile bağımsız tamamen projenin daha akıcı bir şekilde ilerlemesi için bu şekilde bir yapı oluşturuldu.
 
