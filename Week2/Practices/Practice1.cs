@@ -8,9 +8,9 @@ public class Practice1: IPractice
 {
     public void ExecPractice()
     { 
-        var selection = TakeUserInput();
+        var selection = TakeUserInput(); // Bu metod ile kullanıcıdan hangi alıştırmayı çalıştıracağı bilgisini alıp, Selection değişkenine atıyoruz.
         
-        switch (selection)
+        switch (selection) // Kullanıcının seçimine göre aşağıda tanımlanan private metodlar çalıştırılıyor
         {
             case "1":
                 Selection1();
@@ -41,7 +41,7 @@ public class Practice1: IPractice
         Console.WriteLine("4 -> 50 ile 150 arasındaki sayıların toplamını ekrana yazdır");
         Console.WriteLine("5 -> 1 ile 120 arasındaki tek ve çift sayıların toplamlarını ayrı ayrı ekrana yazdır");
         Console.Write("Çalıştırmak istediğiniz uygulamanın numarasını yazınız : ");
-        var selection = Console.ReadLine()!.Trim();
+        var selection = Console.ReadLine()!.Trim(); // Kullanıcıdan alınan veriyi trim ile boşluklarını siliyoruz ve selection değişkenine atıyoruz.
 
         return selection;
     }
@@ -88,6 +88,7 @@ public class Practice1: IPractice
     {
         int ciftToplam = 0;
         int tekToplam = 0;
+        
         for (int i = 1; i < 120; i++)
         {
             if (i % 2 == 0)
