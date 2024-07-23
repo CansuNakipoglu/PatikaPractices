@@ -8,16 +8,16 @@ Detay: Proeje mimarisinde hızlı ve düzenli olabilmesi adına soyut sınıflar
 
 Uygulama Numaraları:
 
-WEEK 1
-  1 - HelloWorld
-  2 - Değişken Tanımlama Ve Atama İşlemleri
-  3 - Casting İşlemleri
-  4 - Operatörler Pratiği
-  5 - Console Komutları Pratiği
-  6 - Değişkenler ile uygulama pratiği
-  7 - If Else Pratiği
-  8 - Switch Case Yapısı
-  9 - Kim Milyoner OLmak İster Pratiği
+WEEK 1  
+  1 - HelloWorld  
+  2 - Değişken Tanımlama Ve Atama İşlemleri  
+  3 - Casting İşlemleri  
+  4 - Operatörler Pratiği  
+  5 - Console Komutları Pratiği  
+  6 - Değişkenler ile uygulama pratiği  
+  7 - If Else Pratiği  
+  8 - Switch Case Yapısı  
+  9 - Kim Milyoner OLmak İster Pratiği  
 
-WEEK 2
-  1 - For Döngüsü Uygulamaları
+WEEK 2  
+  1 - For Döngüsü Uygulamaları  
