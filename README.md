@@ -13,3 +13,5 @@ Uygulama Numaraları:
   5 - Console Komutları Pratiği
   6 - Değişkenler ile uygulama pratiği
   7 - If Else Pratiği
+  8 - Switch Case Yapısı
+  9 - Kim Milyoner OLmak İster Pratiği
