@@ -1,4 +1,4 @@
-namespace Week1.Practices.Abscracts;
+namespace Week2.Practices.Abstracts;
 
 public interface IPractice
 {

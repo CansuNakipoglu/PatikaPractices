@@ -1,5 +1,5 @@
 ﻿using Week1.Practices;
-using Week1.Practices.Abscracts;
+using Week1.Practices.Abstracts;
 
 IPractice practice = null;
 

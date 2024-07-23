@@ -1,5 +1,4 @@
-using Week1.Practices.Abscracts;
-
+using Week1.Practices.Abstracts;
 
 namespace Week1.Practices;
 
