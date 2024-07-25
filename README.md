@@ -20,4 +20,5 @@ WEEK 1
   9 - Kim Milyoner OLmak İster Pratiği  
 
 WEEK 2  
-  1 - For Döngüsü Uygulamaları  
+  1 - For Döngüsü Uygulamaları
+  2 - While Döngüsü Pratiği
