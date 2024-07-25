@@ -101,7 +101,7 @@ public class Practice4 : IPractice
             Console.WriteLine("Bodrum (Paket başlangıç fiyatı 4000 TL)");
             Console.WriteLine("Marmaris (Paket başlangıç fiyatı 3000 TL)");
             Console.WriteLine("Çeşme (Paket başlangıç fiyatı 5000 TL)");
-            Console.Write("Gitmek istediğiniz şehirin adını yazınız = ");
+            Console.Write("Gitmek istediğiniz şehrin adını yazınız = ");
             var selection =
                 Console.ReadLine()!.Trim()
                     .ToUpper(); // Kullanıcıdan alınan veriyi trim ile boşluklarını siliyoruz ve selection değişkenine atıyoruz.
