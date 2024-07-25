@@ -23,3 +23,4 @@ WEEK 2
   1 - For Döngüsü Uygulamaları  
   2 - While Döngüsü Pratiği  
   3 - While vs Do-While Pratiği  
+  4 - Yol Arkadaşı : Tatil uygulaması
