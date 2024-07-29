@@ -24,4 +24,5 @@ WEEK 2
   2 - While Döngüsü Pratiği  
   3 - While vs Do-While Pratiği  
   4 - Yol Arkadaşı : Tatil uygulaması  
-  5 - Metotlar Pratiği
+  5 - Metotlar Pratiği  
+  6 - Hafta 2 Kapanış Projesi  
