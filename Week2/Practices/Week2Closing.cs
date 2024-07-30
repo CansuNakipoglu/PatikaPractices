@@ -18,28 +18,28 @@ public class Week2Closing : IPractice
         switch (selection) // Kullanıcının seçimine göre aşağıda tanımlanan private metodlar çalıştırılıyor
         {
             case "1":
-                Selection1();
+                ExecuteQuestion1();
                 break;
             case "2":
-                Selection2();
+                ExecuteQuestion2();
                 break;
             case "3":
-                Selection3();
+                ExecuteQuestion3();
                 break;
             case "4":
-                Selection4();
+                ExecuteQuestion4();
                 break;
             case "5":
-                Selection5();
+                ExecuteQuestion5();
                 break;
             case "6":
-                Selection6();
+                ExecuteQuestion6();
                 break;
             case "7":
-                Selection7();
+                ExecuteQuestion7();
                 break;
             case "8":
-                BenDegerDondurmem();
+                ExecuteQuestion8();
                 break;
             case "9":
                 int resultQuestion9 = ExecuteQuestion9(6, 9);
@@ -146,31 +146,31 @@ public class Week2Closing : IPractice
         return selection;
     }
 
-    private void Selection1()
+    private void ExecuteQuestion1()
     {
         Console.WriteLine("Merhaba\nNasılsın?\nİyiyim\nSen nasılsın?");
     }
 
-    private void Selection2()
+    private void ExecuteQuestion2()
     {
         int number = 2;
         string text = "Cansu";
         Console.WriteLine(number + " " + text);
     }
 
-    private void Selection3()
+    private void ExecuteQuestion3()
     {
         int randomNumber = rnd.Next();
         Console.WriteLine(randomNumber);
     }
 
-    private void Selection4()
+    private void ExecuteQuestion4()
     {
         int randomNumber = rnd.Next();
         Console.WriteLine(randomNumber % 3);
     }
 
-    private void Selection5()
+    private void ExecuteQuestion5()
     {
         Console.WriteLine("Yaşınız kaç?");
         string age = Console.ReadLine()!.Trim();
@@ -192,7 +192,7 @@ public class Week2Closing : IPractice
         }
     }
 
-    private void Selection6()
+    private void ExecuteQuestion6()
     {
         for (int i = 0; i < 10; i++)
         {
@@ -200,7 +200,7 @@ public class Week2Closing : IPractice
         }
     }
 
-    private void Selection7()
+    private void ExecuteQuestion7()
     {
         string name1 = "Gülse Birsel";
         string name2 = "Demet Evgar";
@@ -214,7 +214,7 @@ public class Week2Closing : IPractice
         Console.WriteLine("İsim 1 = " + name1 + " İsim 2 = " + name2);
     }
 
-    private void BenDegerDondurmem()
+    private void ExecuteQuestion8()
     {
         Console.WriteLine("Ben değer döndürmem , benim bir karşılığım yok , beni değişkene atamaya çalışma");
     }
