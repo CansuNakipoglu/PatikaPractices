@@ -9,27 +9,36 @@ public class Practice1:IPractice
 { 
     public void ExecPractice()
     {
+        List<Person> persons = new List<Person>();
+        
         var student = new Person
         {
             Name = "Ali",
             Surname = "Yılmaz",
             BirthDate = new DateTime (2024, 8, 6)
         };
+        persons.Add(student);
         
         var teacher = new Person
         {
-            Name = "Tolunay",
-            Surname = "Esergün",
+            Name = "Lodos",
+            Surname = "Eser",
             BirthDate = new DateTime (2020, 7, 12)
         };
+        persons.Add(teacher);
+        
         var student2 = new Person()
         {
             Name = "Ahmet",
-            Surname = " Ay",
+            Surname = "Ay",
             BirthDate = new DateTime (2021, 6, 4)
-        }; 
-        
-        Console.WriteLine(student.Name + " " + student.Surname + " " + student.BirthDate + student2.Name + " " + student2.Surname+ " " +student2.BirthDate+ " " + teacher.Name + " " + teacher.Surname + " " + teacher.BirthDate );
+        };
+        persons.Add(student2);
+
+        foreach (var person in persons)
+        {
+            person.WriteIdentity();
+        }
     }
 }
 
@@ -38,6 +47,11 @@ public class Person
     public string Name { get; set; }
     public string Surname { get; set; }
     public DateTime BirthDate { get; set; }
+
+    public void WriteIdentity()
+    {
+        Console.WriteLine(Name + " " + Surname + " " + BirthDate);
+    }
 }
 
 
