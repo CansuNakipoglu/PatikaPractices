@@ -9,7 +9,7 @@ Detay: Proeje mimarisinde hızlı ve düzenli olabilmesi adına soyut sınıflar
 Uygulama Numaraları:
 
 WEEK 1  
-  1 - HelloWorld  
+  1 - Hello World Pratiği
   2 - Değişken Tanımlama Ve Atama İşlemleri  
   3 - Casting İşlemleri  
   4 - Operatörler Pratiği  
@@ -26,3 +26,9 @@ WEEK 2
   4 - Yol Arkadaşı : Tatil uygulaması  
   5 - Metotlar Pratiği  
   6 - Hafta 2 Kapanış Projesi  
+
+  WEEK 3
+- Fundamentals Project
+
+  WEEK 4
+  1 - Sınıf Oluşturma
