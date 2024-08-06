@@ -27,8 +27,8 @@ WEEK 2
   5 - Metotlar Pratiği  
   6 - Hafta 2 Kapanış Projesi  
 
-  WEEK 3
+WEEK 3
 - Fundamentals Project
 
-  WEEK 4
+WEEK 4
   1 - Sınıf Oluşturma
