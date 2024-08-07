@@ -31,4 +31,5 @@ WEEK 3
 - Fundamentals Project
 
 WEEK 4  
-  1 - Sınıf Oluşturma
+  1 - Sınıf Oluşturma  
+  2 - Constructor Method    
