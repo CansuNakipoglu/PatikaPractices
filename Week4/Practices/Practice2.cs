@@ -9,29 +9,29 @@ public class Practice2:IPractice
 {
     public void ExecPractice()
     {
-        Bebek naz = new Bebek("Naz", "Nakipoğlu");
+        Baby naz = new Baby("Naz", "Nakipoğlu");
         Console.WriteLine(naz.Name + " " + naz.Surname + " " + naz.BirthDate);
         
-        Bebek poyraz = new Bebek();
+        Baby poyraz = new Baby();
         poyraz.Name = "poyraz";
         poyraz.Surname = "Nakipoğlu";
         Console.WriteLine(poyraz.Name + " " + poyraz.Surname + " " + poyraz.BirthDate);
     }
 }
 
-public class Bebek
+public class Baby
 {
     public string Name { get; set; }
     public string Surname { get; set; }
     public DateTime BirthDate { get; set; }
 
-    public Bebek()
+    public Baby()
     {
         BirthDate = DateTime.Now;
         Console.WriteLine("Ingaaaa");
         
     }
-    public Bebek(string name, string surname)
+    public Baby(string name, string surname)
     {
         Name = name;
         Surname = surname;
