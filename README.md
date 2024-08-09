@@ -35,3 +35,4 @@ WEEK 4
   2 - Constructor Method    
   3 - Patika Kütüphanesi  
   4 - Encapsulation Pratiği  
+  5 - Inheritance Pratiği  
