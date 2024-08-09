@@ -36,3 +36,4 @@ WEEK 4
   3 - Patika Kütüphanesi  
   4 - Encapsulation Pratiği  
   5 - Inheritance Pratiği  
+  6 - Polymorphism Pratiği  
