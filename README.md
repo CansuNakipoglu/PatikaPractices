@@ -37,3 +37,4 @@ WEEK 4
   4 - Encapsulation Pratiği  
   5 - Inheritance Pratiği  
   6 - Polymorphism Pratiği  
+  7 - Abstraction Pratiği  
