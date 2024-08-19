@@ -43,5 +43,6 @@ WEEK 4
   Week 5  
   1 - Array Pratiği  
   2 - Liste Oluşturma Pratiği  
-  3 - Liste Oluşturma Pratiği 2
+  3 - Liste Oluşturma Pratiği 2  
+  4 - IMDB Listesi Oluşturma  
 
