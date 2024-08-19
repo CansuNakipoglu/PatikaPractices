@@ -46,4 +46,5 @@ WEEK 4
   3 - Liste Oluşturma Pratiği 2  
   4 - IMDB Listesi Oluşturma  
   5 - Try-Catch Pratiği  
+  6 - Hafta 5 Kapanış  
 
