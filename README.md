@@ -38,4 +38,7 @@ WEEK 4
   5 - Inheritance Pratiği  
   6 - Polymorphism Pratiği  
   7 - Abstraction Pratiği  
-  8 - Hafta 4 Kapanış
+  8 - Hafta 4 Kapanış  
+
+  Week 5  
+  1 - Array Pratiği  
