@@ -20,7 +20,7 @@ namespace Week5.Practices
 
             public Araba(string seriNumarasi, string marka, string model, string renk, int kapiSayisi)
             {
-                UretimTarihi = DateTime.Now; 
+                UretimTarihi = DateTime.Now;
                 SeriNumarasi = seriNumarasi;
                 Marka = marka;
                 Model = model;
@@ -68,7 +68,7 @@ namespace Week5.Practices
                         try
                         {
                             kapiSayisi = int.Parse(kapiSayisiStr);
-                            break; 
+                            break;
                         }
                         catch (FormatException)
                         {
@@ -83,12 +83,12 @@ namespace Week5.Practices
                     string devamCevabi = Console.ReadLine().Trim().ToLower();
                     if (devamCevabi != "evet")
                     {
-                        break; 
+                        break;
                     }
                 }
                 else if (cevap == "hayır")
                 {
-                    break; 
+                    break;
                 }
                 else
                 {
