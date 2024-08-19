@@ -1,7 +1,7 @@
 ﻿using Week5.Practices;
 using Week5.Practices.Abstracts;
 
-IPractice practice = new Practice4();
+IPractice practice = new Practice5();
 
 if (practice == null)
 {
@@ -17,6 +17,8 @@ if (practice == null)
         case "3": practice = new Practice3();
             break;
         case "4": practice = new Practice4();
+            break;
+        case "5": practice = new Practice5();
             break;
         default: Console.WriteLine("Lütfen Geçerli Bir Uygulama Numarası Giriniz");
             return;
