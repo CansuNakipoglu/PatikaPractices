@@ -41,4 +41,5 @@ WEEK 4
   8 - Hafta 4 Kapanış  
 
   Week 5
+  
   1 - Array Pratiği  
