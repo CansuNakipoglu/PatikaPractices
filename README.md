@@ -42,3 +42,4 @@ WEEK 4
 
   Week 5  
   1 - Array Pratiği  
+  2 - Liste Oluşturma Pratiği  
