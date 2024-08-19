@@ -7,7 +7,7 @@ namespace Week5.Practices;
 /// </summary>
 public class Practice1:IPractice
 {
-    public void ExecPractice()
+     public void ExecPractice()
     {
         int[] sayilar = new int[10];
         
