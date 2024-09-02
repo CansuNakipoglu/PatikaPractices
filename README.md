@@ -48,3 +48,9 @@ WEEK 4
   5 - Try-Catch Pratiği  
   6 - Hafta 5 Kapanış  
 
+WEEK 6
+-SQL Pratikleri
+
+WEEK 7
+1 - Linq Pratiği
+
