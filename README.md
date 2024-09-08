@@ -51,6 +51,7 @@ WEEK 4
 WEEK 6
 -SQL Pratikleri
 
-WEEK 7
-1 - Linq Pratiği
+WEEK 7  
+1 - Linq Pratiği  
+2 - Patikafy Müzik Platformu
 
