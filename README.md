@@ -53,5 +53,6 @@ WEEK 6
 
 WEEK 7  
 1 - Linq Pratiği  
-2 - Patikafy Müzik Platformu
+2 - Patikafy Müzik Platformu  
+3 - Patikaflix Diziler Platformu  
 
