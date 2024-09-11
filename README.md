@@ -55,4 +55,4 @@ WEEK 7
 1 - Linq Pratiği  
 2 - Patikafy Müzik Platformu  
 3 - Patikaflix Diziler Platformu  
-
+4 - Linq Join Pratiği
