@@ -1,7 +1,7 @@
 ﻿using Week7.Practices;
 using Week7.Practices.Abstracts;
 
-IPractice practice = new Practice4();
+IPractice practice = new Practice5();
 
 if (practice == null)
 {
@@ -24,6 +24,9 @@ if (practice == null)
             break;
         case "4":
             practice = new Practice4();
+            break;
+        case "5":
+            practice = new Practice5();
             break;
     }
 }
